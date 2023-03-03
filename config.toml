@@ -82,7 +82,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.languages.list]]
         name = "Spanish"
-        level = "Able to semi communicate, have some trouble interpreting unless text is written down"
+        level = "Very limited knowledge, good with interpreting text, but have some trouble interpreting speech."
         
         [[params.language.list]]
         name = "Gibberish"
