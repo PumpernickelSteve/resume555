@@ -168,13 +168,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/codewithbas"
-        title = "/codewithbas"
+        url = "https://github.com/ralang2005"
+        title = "/ralang2005"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "https://linkedin.com/in/bascodes"
-        title = "/in/bascodes"
+        url = "https://linkedin.com/in/ralang2005"
+        title = "/in/ralang2005"
         [[params.social.list]]
         icon = "fab fa-twitter-square"
-        url = "https://twitter.com/bascodes"
-        title = "@bascodes"
+        url = "https://twitter.com/ralang2005"
+        title = "@ralang2005"
