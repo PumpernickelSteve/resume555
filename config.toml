@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://velvety-lolly-e5670e.netlify.app/"
+baseURL = "https://ralang2005resume.netlify.app/"
 languageCode = "en"
 title = "Ryan Lang"
 enableGitInfo = false
@@ -12,7 +12,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     og_image = "Original.jpg"
     twitterName = "@rlang05"
     ghRepo = ""
-    hugoRepo = "https://github.com/gohugoio/hugo/"
+    hugoRepo = ""
 
     [params.profile]
         enable = true
