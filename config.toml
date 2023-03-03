@@ -56,17 +56,31 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.education]
         enable = true
-
-        [[params.education.list]]
-        degree = "Student at"
-        university = "Apex High School"
-        dates = "2019-Present"
-        
         [[params.education.list]]
         degree = "Dual enrolled at"
         university = "Wake Tech Community College"
         dates = "2022-Present"
-
+        [[params.education.list]]
+        degree = "Student at"
+        university = "Apex High School"
+        dates = "2019-Present"
+        [[params.education.list]]
+        degree = "Graduated from"
+        university = "Salem Middle School"
+        dates = "2017-2019"
+        [[params.education.list]]
+        degree = "Transferred to"
+        university = "Turner Creek Elementary"
+        dates = "2016"
+        [[params.education.list]]
+        degree = "After moving to NC, put in"
+        university = "Salem Elementary School"
+        dates = "2014-2016"
+        [[params.education.list]]
+        degree = "Enrolled in"
+        university = "P.S. 121 in Brooklyn, New York"
+        dates = "2010-2014"
+        
 
     [params.awards]
         enable = false
