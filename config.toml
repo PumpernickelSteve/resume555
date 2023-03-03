@@ -140,10 +140,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list]]
         title = "Miracle League of the Triangle Assistant/Volunteer"
         dates = "2019"
-        company = "Miracle League of the Triangle"
+        company = "Miracle League of the Triangle in association with St. Michael the Archangel Roman Catholic Church"
         details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
         [[params.experience.list.items]]
         details = "The Miracle League also showed me that you have to be patient. It helped me understand that not everything had to be about winning or scoring home runs, but just having fun and enjoying the time you spend together with others."
+        [[params.experience.list]]
+        title = "Brown Bag Ministry Volunteer"
+        dates = "2018"
+        company = "Brown Bag Ministry in Central NC in association with St. Michael the Archangel Roman Catholic Church"
+        details = "Around Thanksgiving, My local church hosted a brown bag ministry event where you would fill bags with food to give to those who were less fortunate in the spirit of giving."
+        [[params.experience.list.items]]
+        details = "This was one of the first events in my life that I wanted to volunteer for rather than being forced to by a parent or required to by someone like a teacher. It taught me that when you have opportunities like this you have to take as many of them as you possibly can. If there's any chance you can help to give to those who can't help themselves you should always try your hardest to take it and be a part of it."
    [params.projects]
         enable = true
 
