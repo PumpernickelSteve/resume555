@@ -137,8 +137,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Shadow a job of your choice and report your findings"
         [[params.experience.list.items]]
         details = "Working alongside a teacher taught me that in some situations you have to be patient and cannot be irritated easily. It taught me that by sharing common interests even if not in the most advanced of ways, you can get along with someone."
-
-    [params.projects]
+        [[params.experience.list]]
+        title = "Miracle League of the Triangle Assistant/Volunteer"
+        dates = "2019"
+        company = "Miracle League of the Triangle"
+        details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
+        [[params.experience.list.items]]
+        details = "The Miracle League also showed me that you have to be patient. It helped me understand that not everything had to be about winning or scoring home runs, but just having fun and enjoying the time you spend together with others."
+   [params.projects]
         enable = true
 
         [[params.projects.list]]
