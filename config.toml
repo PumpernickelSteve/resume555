@@ -138,10 +138,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "This Resume"
+        title = "An online interactive resume"
         meta = "GitHub project"
         url = "google.com"
-        tagline = "A resume with a free PDF generator"
+        tagline = "A resume with a free PDF generator underneath the avatar"
         [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
