@@ -2,7 +2,7 @@
 
 baseURL = "https://ralang2005resume.netlify.app/"
 languageCode = "en"
-title = "Ryan Lang"
+title = "Ryan Lang's Resume"
 enableGitInfo = false
 googleAnalytics = "UA-XXXXXXX-Y"
 
