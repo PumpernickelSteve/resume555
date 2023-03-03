@@ -45,9 +45,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Word and Powerpoint"
         [[params.skills.list]]
-        title = "Keyboarding"
+        title = "Keyboarding and Computer Proficiency (Managing Files, Word Processing, Creating Presentations)"
         [[params.skills.list]]
-        title = "Holding my breath for two minutes"
+        title = "Semi-advanced Computer Proficiency (Managing databases, running calculations in spreadsheets)"
+        [[params.skills.list]]
+        title = "Holding my breath for two minutes underwater"
+        [[params.skills.list]]
+        title = "Works well with teams and alone"
 
 
     [params.education]
@@ -82,9 +86,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.languages.list]]
         name = "Spanish"
-        level = "Very limited knowledge, good with interpreting text, but have some trouble interpreting speech."
+        level = "Very limited knowledge, some trouble interpreting verbal messages"
         
-        [[params.language.list]]
+        [[params.languages.list]]
         name = "Gibberish"
         level = "Fluent"
 
