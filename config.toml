@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-000815_Gallery.jpg"
+        avatar = "Screenshot_20230826-003112_Discord.jpg"
 
     [params.contact]
         enable = true
