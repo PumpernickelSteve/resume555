@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-003112_Discord.jpg"
+        avatar = "Screenshot_20230826-000815_Gallery.jpg"
 
     [params.contact]
         enable = true
@@ -107,7 +107,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Listening to Music"
+        name = "Badminton"
         [[params.interests.list]]
         name = "Marketing"
         [[params.interests.list]]
@@ -115,9 +115,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
-        name = "Badminton"
-        [[params.interests.list]]
-        name = "Hanging out with friends"
+        name = "Music"
 
 
     [params.summary]
@@ -171,10 +169,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
+        URL = "google.com"
         tagline = "Receive a budget to organize a delightful group vacation to a country of your choosing, while meticulously recording expenses and tracking expenditure."
         [[params.projects.list]]
         title = "AOIT Internship and Senior Presentation"
         meta = "Academy of Information & Technology Project"
+        URL = "google.com"
         tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
@@ -184,11 +184,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Family History"
         [[params.information.list.items]]
-        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy, a black and white imperial shih tzu, and Gizmo, a white and brown shih tzu who joined us in the summer of 2022."
+        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy and Gizmo, two shih tzus."
         [[params.information.list]]
         title = "Hobbies"
         [[params.information.list.items]]
-        details = "My hobbies include doing schoolwork, chilling with friends both in and out of school, surfing the web for YouTube videos and my favorite music, bowling on Saturdays at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
+        details = "My hobbies include listening to my favorite music, bowling at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
 
     [params.social]
         enable = true
