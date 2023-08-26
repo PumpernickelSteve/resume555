@@ -113,6 +113,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Website Creation and Design"
         [[params.interests.list]]
+        name = "Public Speaking & Presenting"
+        [[params.interests.list]]
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
         name = "Music"
@@ -146,21 +148,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Brown Bag Ministry in Central NC in association with St. Michael the Archangel Roman Catholic Church"
         details = "Around Thanksgiving, My local church hosted a brown bag ministry event where you would fill bags with food to give to those who were less fortunate in the spirit of giving."
         [[params.experience.list.items]]
-        details = "Unlike previous instances of being compelled by parents or teachers, this was among the initial events in my life that I eagerly volunteered for. It underlined the importance of seizing opportunities, especially those that allow us to assist those in need, emphasizing the value of actively participating in such endeavors."
+        details = "Unlike before, this was one of my initial voluntary efforts. It highlighted seizing chances to aid others, valuing active participation."
         [[params.experience.list]]
         title = "AOIT Job Shadow Experience"
         dates = "2019"
         company = "Academy of Information & Technology & Green Hope Elementary School"
         details = "Shadow a job of your choice and report your findings"
         [[params.experience.list.items]]
-        details = "Collaborating with a teacher showed me the significance of patience in certain scenarios, highlighting the need to remain composed rather than becoming easily annoyed. It also underscored that even if not extensively developed, shared interests can foster positive relationships and understanding with others."
+        details = "Teacher collaboration taught patience in tough times, valuing composure. Shared interests can foster understanding and bonds."
         [[params.experience.list]]
         title = "Miracle League of the Triangle Assistant/Volunteer"
         dates = "2019"
         company = "Miracle League of the Triangle with St. Michael the Archangel Roman Catholic Church"
         details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
         [[params.experience.list.items]]
-        details = "Through my involvement with the Miracle League, I learned the value of patience, realizing that the focus didn't always have to be on winning or hitting home runs; instead, it emphasized the importance of having fun and cherishing the moments spent with others."
+        details = "Miracle League taught patience, shifting focus from winning to cherishing fun moments with others."
         [[params.experience.list]]
         
 [params.projects]
