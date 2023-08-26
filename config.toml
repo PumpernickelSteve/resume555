@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://ralang2005resume.netlify.app/
+baseURL = "https://ralang2005resume.netlify.app/"
 languageCode = "en"
 title = "Ryan Lang's Resume"
 enableGitInfo = false
@@ -14,13 +14,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
     ghRepo = ""
     hugoRepo = ""
 
-        [params.profile]
+    [params.profile]
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-003112_Discord.jpg"
+        avatar = "Screenshot_20230826-000815_Gallery.jpg"
 
-        [params.contact]
+    [params.contact]
         enable = true
 
         location = "North Carolina"
@@ -31,15 +31,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "(917)-535-5264"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "mailto:mail@example.org"
+        url = "mailto:ralang2005@gmail.com"
         text = "ralang2005@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
-        url = "https://bas.bio"
+        url = "mailto:ralang@my.waketech.edu"
         text = "ralang@my.waketech.edu"
 
 
-        [params.skills]
+    [params.skills]
         enable = true
 
         [[params.skills.list]]
@@ -54,7 +54,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Works well with teams and alone"
 
 
-        [params.education]
+    [params.education]
         enable = true
         [[params.education.list]]
         degree = "Enrolled in"
@@ -78,7 +78,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2014-2016"
         
 
-        [params.awards]
+    [params.awards]
         enable = false
 
         [[params.awards.list]]
@@ -87,7 +87,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         date = ""
 
 
-        [params.languages]
+    [params.languages]
         enable = true
 
         [[params.languages.list]]
@@ -103,11 +103,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         level = "Learning, bare minimum knowledge"
 
 
-        [params.interests]
+    [params.interests]
         enable = true
 
         [[params.interests.list]]
-        name = "Listening to Music"
+        name = "Badminton"
         [[params.interests.list]]
         name = "Marketing"
         [[params.interests.list]]
@@ -115,18 +115,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
-        name = "Badminton"
-        [[params.interests.list]]
-        name = "Hanging out with friends"
-        
+        name = "Music"
 
 
-        [params.summary]
+    [params.summary]
         enable = true
         text = "Apex High School Graduate, attending Wake Tech Community College pursuing an Associates in Science until 2025 transfer to UNC Charlotte for a major in Business Marketing"
 
 
-        [params.experience]
+    [params.experience]
         enable = true
 
         [[params.experience.list]]
@@ -156,7 +153,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Academy of Information & Technology & Green Hope Elementary School"
         details = "Shadow a job of your choice and report your findings"
         [[params.experience.list.items]]
-        details = "Collaborating with a teacher showed me the significance of patience in certain scenarios, highlighting the need to remain composed rather than becoming easily annoyed. It also underscored that shared interests, even if not extensively developed, can foster positive relationships and understanding with others."
+        details = "Collaborating with a teacher showed me the significance of patience in certain scenarios, highlighting the need to remain composed rather than becoming easily annoyed. It also underscored that even if not extensively developed, shared interests can foster positive relationships and understanding with others."
         [[params.experience.list]]
         title = "Miracle League of the Triangle Assistant/Volunteer"
         dates = "2019"
@@ -166,32 +163,34 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Through my involvement with the Miracle League, I learned the value of patience, realizing that the focus didn't always have to be on winning or hitting home runs; instead, it emphasized the importance of having fun and cherishing the moments spent with others."
         [[params.experience.list]]
         
-        [params.projects]
+[params.projects]
         enable = true
 
         [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
+        url = "google.com"
         tagline = "Receive a budget to organize a delightful group vacation to a country of your choosing, while meticulously recording expenses and tracking expenditure."
         [[params.projects.list]]
         title = "AOIT Internship and Senior Presentation"
         meta = "Academy of Information & Technology Project"
-        tagline = "Similar to a job shadowing experience, this project entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
+        url = "google.com"
+        tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
-        [params.information]
+    [params.information]
         enable = true
 
         [[params.information.list]]
         title = "Family History"
         [[params.information.list.items]]
-        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy, a black and white imperial shih tzu, and Gizmo, a white and brown shih tzu who joined us in the summer of 2022."
+        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy and Gizmo, two shih tzus."
         [[params.information.list]]
         title = "Hobbies"
         [[params.information.list.items]]
-        details = "My hobbies include doing schoolwork, chilling with friends both in and out of school, surfing the web for YouTube videos and my favorite music, bowling on Saturdays at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
+        details = "My hobbies include listening to my favorite music, bowling at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
 
-        [params.social]
+    [params.social]
         enable = true
 
         [[params.social.list]]
