@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://ralang2005resume.netlify.app/"
+baseURL = "https://ralang2005resume.netlify.app/
 languageCode = "en"
 title = "Ryan Lang's Resume"
 enableGitInfo = false
@@ -14,13 +14,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
     ghRepo = ""
     hugoRepo = ""
 
-    [params.profile]
+        [params.profile]
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
         avatar = "Screenshot_20230826-003112_Discord.jpg"
 
-    [params.contact]
+        [params.contact]
         enable = true
 
         location = "North Carolina"
@@ -39,7 +39,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "ralang@my.waketech.edu"
 
 
-    [params.skills]
+        [params.skills]
         enable = true
 
         [[params.skills.list]]
@@ -54,7 +54,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Works well with teams and alone"
 
 
-    [params.education]
+        [params.education]
         enable = true
         [[params.education.list]]
         degree = "Enrolled in"
@@ -78,7 +78,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         dates = "2014-2016"
         
 
-    [params.awards]
+        [params.awards]
         enable = false
 
         [[params.awards.list]]
@@ -87,7 +87,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         date = ""
 
 
-    [params.languages]
+        [params.languages]
         enable = true
 
         [[params.languages.list]]
@@ -103,7 +103,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         level = "Learning, bare minimum knowledge"
 
 
-    [params.interests]
+        [params.interests]
         enable = true
 
         [[params.interests.list]]
@@ -121,12 +121,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         
 
 
-    [params.summary]
+        [params.summary]
         enable = true
         text = "Apex High School Graduate, attending Wake Tech Community College pursuing an Associates in Science until 2025 transfer to UNC Charlotte for a major in Business Marketing"
 
 
-    [params.experience]
+        [params.experience]
         enable = true
 
         [[params.experience.list]]
@@ -164,9 +164,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
         [[params.experience.list.items]]
         details = "Through my involvement with the Miracle League, I learned the value of patience, realizing that the focus didn't always have to be on winning or hitting home runs; instead, it emphasized the importance of having fun and cherishing the moments spent with others."
-        [[params.experience.list]]
         
-[params.projects]
+        
+        [params.projects]
         enable = true
 
         [[params.projects.list]]
@@ -179,7 +179,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "Similar to a job shadowing experience, this project entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
-    [params.information]
+        [params.information]
         enable = true
 
         [[params.information.list]]
@@ -191,7 +191,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list.items]]
         details = "My hobbies include doing schoolwork, chilling with friends both in and out of school, surfing the web for YouTube videos and my favorite music, bowling on Saturdays at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
 
-    [params.social]
+        [params.social]
         enable = true
 
         [[params.social.list]]
