@@ -164,7 +164,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
         [[params.experience.list.items]]
         details = "Through my involvement with the Miracle League, I learned the value of patience, realizing that the focus didn't always have to be on winning or hitting home runs; instead, it emphasized the importance of having fun and cherishing the moments spent with others."
-        
+        [[params.experience.list]]
         
         [params.projects]
         enable = true
