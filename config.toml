@@ -169,12 +169,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
-        URL = "google.com"
+        url = "google.com"
         tagline = "Receive a budget to organize a delightful group vacation to a country of your choosing, while meticulously recording expenses and tracking expenditure."
         [[params.projects.list]]
         title = "AOIT Internship and Senior Presentation"
         meta = "Academy of Information & Technology Project"
-        URL = "google.com"
+        url = "google.com"
         tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
