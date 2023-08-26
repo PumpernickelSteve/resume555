@@ -118,8 +118,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Badminton"
         [[params.interests.list]]
         name = "Hanging out with friends"
-        [[params.interests.list]]
-        name = "Driving"
 
 
     [params.summary]
