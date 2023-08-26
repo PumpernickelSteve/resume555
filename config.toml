@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-000815_Gallery.jpg"
+        avatar = "Screenshot_20230826-003112_Discord.jpg"
 
     [params.contact]
         enable = true
@@ -45,11 +45,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Word and Powerpoint"
         [[params.skills.list]]
-        title = "Keyboarding and Computer Proficiency (Managing Files, Word Processing, Creating Presentations)"
+        title = "Keyboarding"
         [[params.skills.list]]
-        title = "Semi-advanced Computer Proficiency (Managing databases, running calculations in spreadsheets)"
+        title = "Semi-advanced Computer Proficiency"
         [[params.skills.list]]
-        title = "Holding my breath for two minutes underwater"
+        title = "Well-Organized and Kept"
         [[params.skills.list]]
         title = "Works well with teams and alone"
 
@@ -116,6 +116,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
         name = "Badminton"
+        [[params.interests.list]]
+        name = "Hanging out with friends"
+        [[params.interests.list]]
+        name = "Driving"
 
 
     [params.summary]
