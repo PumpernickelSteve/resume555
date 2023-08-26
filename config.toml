@@ -45,11 +45,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Word and Powerpoint"
         [[params.skills.list]]
-        title = "Keyboarding"
+        title = "Keyboarding and Computer Proficiency (Managing Files, Word Processing, Creating Presentations)"
         [[params.skills.list]]
-        title = "Semi-advanced Computer Proficiency"
+        title = "Semi-advanced Computer Proficiency (Managing databases, running calculations in spreadsheets)"
         [[params.skills.list]]
-        title = "Well-Organized and Kept"
+        title = "Holding my breath for two minutes underwater"
         [[params.skills.list]]
         title = "Works well with teams and alone"
 
@@ -107,7 +107,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Badminton"
+        name = "Listening to Music"
         [[params.interests.list]]
         name = "Marketing"
         [[params.interests.list]]
@@ -115,7 +115,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
-        name = "Music"
+        name = "Badminton"
 
 
     [params.summary]
@@ -169,12 +169,10 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
-        url = "google.com"
         tagline = "Receive a budget to organize a delightful group vacation to a country of your choosing, while meticulously recording expenses and tracking expenditure."
         [[params.projects.list]]
         title = "AOIT Internship and Senior Presentation"
         meta = "Academy of Information & Technology Project"
-        url = "google.com"
         tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
@@ -184,11 +182,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Family History"
         [[params.information.list.items]]
-        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy and Gizmo, two shih tzus."
+        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy, a black and white imperial shih tzu, and Gizmo, a white and brown shih tzu who joined us in the summer of 2022."
         [[params.information.list]]
         title = "Hobbies"
         [[params.information.list.items]]
-        details = "My hobbies include listening to my favorite music, bowling at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
+        details = "My hobbies include doing schoolwork, chilling with friends both in and out of school, surfing the web for YouTube videos and my favorite music, bowling on Saturdays at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
 
     [params.social]
         enable = true
