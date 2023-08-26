@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-000815_Gallery.jpg"
+        avatar = "Sunset.jpg"
 
     [params.contact]
         enable = true
@@ -34,9 +34,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "mailto:mail@example.org"
         text = "ralang2005@gmail.com"
         [[params.contact.list]]
-        icon = "fas fa-envelope-square"
+        icon = "fas fa-globe"
         url = "https://bas.bio"
-        text = "ralang@my.waketech.edu"
+        text = "ralang@students.wcpss.net"
 
 
     [params.skills]
@@ -57,25 +57,29 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.education]
         enable = true
         [[params.education.list]]
-        degree = "Enrolled in"
+        degree = "Dual enrolled at"
         university = "Wake Tech Community College"
-        dates = "2022/23-Present"
+        dates = "2022-Present"
         [[params.education.list]]
         degree = "Student at"
         university = "Apex High School"
-        dates = "2019-2023"
+        dates = "2019-Present"
         [[params.education.list]]
         degree = "Graduated from"
         university = "Salem Middle School"
         dates = "2017-2019"
         [[params.education.list]]
-        degree = "Graduated from"
+        degree = "Transferred from Salem Elementary School and Graduated from"
         university = "Turner Creek Elementary"
         dates = "2016"
         [[params.education.list]]
-        degree = "Temporarily Enrolled at"
+        degree = "After moving to NC, put in"
         university = "Salem Elementary School"
         dates = "2014-2016"
+        [[params.education.list]]
+        degree = "Enrolled in"
+        university = "P.S. 121 in Brooklyn, New York"
+        dates = "2010-2014"
         
 
     [params.awards]
@@ -96,11 +100,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.languages.list]]
         name = "Spanish"
-        level = "Limited knowledge, took two high school classes"
+        level = "Very limited knowledge, some trouble interpreting verbal messages"
         
         [[params.languages.list]]
-        name = "French"
-        level = "Learning, bare minimum knowledge"
+        name = "Gibberish"
+        level = "Fluent"
 
 
     [params.interests]
@@ -115,65 +119,65 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.interests.list]]
         name = "Selling Items and Collectibles Online"
         [[params.interests.list]]
-        name = "Badminton"
+        name = "Juggling"
 
 
     [params.summary]
         enable = true
-        text = "Apex High School Graduate, attending Wake Tech Community College pursuing an Associates in Science until 2025 transfer to UNC Charlotte for a major in Business Marketing"
+        text = "Student at Apex High School, expected to graduate in Summer 2023."
 
 
     [params.experience]
         enable = true
 
         [[params.experience.list]]
-        title = "Graduated AOIT Member"
-        dates = "2019-2023"
+        title = "AOIT Member"
+        dates = "2019-Present"
         company = "Academy of Information & Technology"
         details = "A program that entails more computer related challenges and promised a better high school experience"
         [[params.experience.list.items]]
-        details = "I joined through a lottery program and wrote an essay before graduating middle school, focusing on technical work like programming and web design classes."
+        details = "Signed up before graduating middle school through a lottery program and essay submission. Work more in technical aspect and take more programming and web design related classes."
         [[params.experience.list]]
         title = "Dogsitting"
         dates = "2018-Present"
         company = "Independently Operated by Yours Truly"
         details = "Watching pets for neighbors and family members"
         [[params.experience.list.items]]
-        details = "Caring for neighbors' and family members' pets, mostly dogs, in 2018, imbued me with a sense of responsibility and nurtured qualities like kindness, respect, and reliability, shaping the trustworthy and caring person I am today."
+        details = "Working with neighbors and family members to watch their pets, mostly dogs in 2018 gave me a sense of responsibility and made me who I am today. It taught me to be kind, respectful, caring, and someone that people can trust and turn to with anything."
+        [[params.experience.list]]
+        title = "Job Shadow Experience"
+        dates = "2019"
+        company = "Academy of Information & Technology & Green Hope Elementary School"
+        details = "Shadow a job of your choice and report your findings"
+        [[params.experience.list.items]]
+        details = "Working alongside a teacher taught me that in some situations you have to be patient and cannot be irritated easily. It taught me that by sharing common interests even if not in the most advanced of ways, you can get along with someone."
+        [[params.experience.list]]
+        title = "Miracle League of the Triangle Assistant/Volunteer"
+        dates = "2019"
+        company = "Miracle League of the Triangle in association with St. Michael the Archangel Roman Catholic Church"
+        details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
+        [[params.experience.list.items]]
+        details = "The Miracle League also showed me that you have to be patient. It helped me understand that not everything had to be about winning or scoring home runs, but just having fun and enjoying the time you spend together with others."
         [[params.experience.list]]
         title = "Brown Bag Ministry Volunteer"
         dates = "2018"
         company = "Brown Bag Ministry in Central NC in association with St. Michael the Archangel Roman Catholic Church"
         details = "Around Thanksgiving, My local church hosted a brown bag ministry event where you would fill bags with food to give to those who were less fortunate in the spirit of giving."
         [[params.experience.list.items]]
-        details = "Unlike previous instances of being compelled by parents or teachers, this was among the initial events in my life that I eagerly volunteered for. It underlined the importance of seizing opportunities, especially those that allow us to assist those in need, emphasizing the value of actively participating in such endeavors."
-        [[params.experience.list]]
-        title = "AOIT Job Shadow Experience"
-        dates = "2019"
-        company = "Academy of Information & Technology & Green Hope Elementary School"
-        details = "Shadow a job of your choice and report your findings"
-        [[params.experience.list.items]]
-        details = "Collaborating with a teacher showed me the significance of patience in certain scenarios, highlighting the need to remain composed rather than becoming easily annoyed. It also underscored that shared interests, even if not extensively developed, can foster positive relationships and understanding with others."
-        [[params.experience.list]]
-        title = "Miracle League of the Triangle Assistant/Volunteer"
-        dates = "2019"
-        company = "Miracle League of the Triangle with St. Michael the Archangel Roman Catholic Church"
-        details = "Miracle League hosts baseball games where volunteers sign up to assist players who have special needs so that they can have some fun playing sports without having to worry about not knowing what to do or not having help."
-        [[params.experience.list.items]]
-        details = "Through my involvement with the Miracle League, I learned the value of patience, realizing that the focus didn't always have to be on winning or hitting home runs; instead, it emphasized the importance of having fun and cherishing the moments spent with others."
-        [[params.experience.list]]
-        
-[params.projects]
+        details = "This was one of the first events in my life that I wanted to volunteer for rather than being forced to by a parent or required to by someone like a teacher. It taught me that when you have opportunities like this you have to take as many of them as you possibly can. If there's any chance you can help to give to those who can't help themselves you should always try your hardest to take it and be a part of it."
+   [params.projects]
         enable = true
 
         [[params.projects.list]]
+        title = "An online interactive resume"
+        meta = "GitHub project"
+        url = "google.com"
+        tagline = "A resume with a free PDF generator underneath the avatar"
+        [[params.projects.list]]
         title = "Travel and Tourism Project"
         meta = "Academy of Information & Technology Project"
-        tagline = "Receive a budget to organize a delightful group vacation to a country of your choosing, while meticulously recording expenses and tracking expenditure."
-        [[params.projects.list]]
-        title = "AOIT Internship and Senior Presentation"
-        meta = "Academy of Information & Technology Project"
-        tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
+        url = "google.com"
+        tagline = "Be given a budget and plan an enjoyable vacation to a country of your groups choice while taking notes of costs and how much money you're spending."
 
 
     [params.information]
@@ -182,11 +186,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Family History"
         [[params.information.list.items]]
-        details = "Born in Brooklyn, New York, in 2005, I relocated to Cary, North Carolina, at the age of 9 in 2014. Currently residing here with two dogs: Murphy, a black and white imperial shih tzu, and Gizmo, a white and brown shih tzu who joined us in the summer of 2022."
+        details = "I am originally from Brooklyn, New York. I was born there in 2005 and moved to Cary, North Carolina when I was 9 in 2014. I also have two dogs, Murphy, a black and white imperial shih tzu, and Gizmo, a white and brown shih tzu who came down to live with us in the summer of 2022 after the passing of his owner."
         [[params.information.list]]
         title = "Hobbies"
         [[params.information.list.items]]
-        details = "My hobbies include doing schoolwork, chilling with friends both in and out of school, surfing the web for YouTube videos and my favorite music, bowling on Saturdays at Buffaloe Lanes, and recently, excelling at playing badminton, a sport I picked up last year."
+        details = "My hobbies, include attending and completing schoolwork, hanging out with friends inside and outside of school, browsing the web i.e. watching youtube videos or listening to my favorite songs and artists in my spare time, bowling on a team on saturday mornings at Buffaloe Lanes, and as of last year, playing badminton, a sport that I am surprisingly good at."
+
+      
 
     [params.social]
         enable = true
@@ -198,8 +204,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.social.list]]
         icon = "fab fa-linkedin"
         url = "https://linkedin.com/in/ralang2005"
-        title = "WIP: /in/ralang2005"
+        title = "/in/ralang2005"
         [[params.social.list]]
-        icon = "fab fa-instagram-square"
-        url = "https://instagram.com/r.lang05"
-        title = "@r.lang05"
+        icon = "fab fa-twitter-square"
+        url = "https://twitter.com/ralang2005"
+        title = "@ralang2005"
