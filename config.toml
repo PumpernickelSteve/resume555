@@ -176,7 +176,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "AOIT Internship and Senior Presentation"
         meta = "Academy of Information & Technology Project"
-        tagline = "Similar to a job shadowing experience, this entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
+        tagline = "Similar to a job shadowing experience, this project entails interning for a business, engaging in assigned tasks, and gaining paid hands-on experience."
 
 
     [params.information]
