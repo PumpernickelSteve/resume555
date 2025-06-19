@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Ryan Lang"
         tagline = "Resume"
-        avatar = "Screenshot_20230826-003112_Discord.jpg"
+        avatar = "20241022_172417.jpg"
 
     [params.contact]
         enable = true
@@ -47,11 +47,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Keyboarding"
         [[params.skills.list]]
-        title = "Semi-advanced Computer Proficiency"
+        title = ""
         [[params.skills.list]]
         title = "Well-Organized and Kept"
         [[params.skills.list]]
-        title = "Works well alone and in teams"
+        title = ""
 
 
     [params.education]
